@@ -37,7 +37,7 @@ import java.util.*;
 
                         int nAcima = 0, somaVal = 0, media = 0;
                         for (int a = 0; a < opcoes.size(); a++) {
-                            if (valor.size()> 50000) {
+                            if (valor1 > 50000) {
                                 nAcima++;
                                 somaVal += opcoes.size();
 
